@@ -1,0 +1,21 @@
+DREAM6-ZR MULTIVIEW PATTERN REPORT
+==============================================================================
+r=1 root=0.562605012644506 premium=6.661338147750939e-16 verify=True
+  d=0 q=1 nodes=1 Kmotifs=1 Zmotifs=1 lawMotifs=1
+r=2 root=0.590087691992523 premium=0.0005404126078052407 verify=True
+  d=0 q=2 nodes=1 Kmotifs=1 Zmotifs=1 lawMotifs=1
+  d=1 q=1 nodes=5 Kmotifs=1 Zmotifs=5 lawMotifs=5
+r=3 root=0.601921536910295 premium=0.00021730759150584422 verify=True
+  d=0 q=3 nodes=1 Kmotifs=1 Zmotifs=1 lawMotifs=1
+  d=1 q=2 nodes=5 Kmotifs=5 Zmotifs=5 lawMotifs=5
+  d=2 q=1 nodes=25 Kmotifs=1 Zmotifs=25 lawMotifs=25
+r=4 root=0.607816837530898 premium=0.00020753162867326314 verify=True
+  d=0 q=4 nodes=1 Kmotifs=1 Zmotifs=1 lawMotifs=1
+  d=1 q=3 nodes=5 Kmotifs=5 Zmotifs=5 lawMotifs=5
+  d=2 q=2 nodes=25 Kmotifs=10 Zmotifs=25 lawMotifs=25
+  d=3 q=1 nodes=125 Kmotifs=1 Zmotifs=124 lawMotifs=122
+
+Root anti-diagonal stabilization:
+  r=1->2 mean-row-L1=0.495917
+  r=2->3 mean-row-L1=0.375727
+  r=3->4 mean-row-L1=0.269381
